@@ -10,6 +10,8 @@
 	<string>Checkers</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>515A4458CF6711EC09054143841020E63DA91893</key>
+		<string>https://github.com/Will16/iOSCheckersStart.git</string>
 		<key>C7C8EB5D30E74DA21F74FADD1A5BF4408FA39EC1</key>
 		<string>https://github.com/Calda/Checkers.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>Checkers.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C7C8EB5D30E74DA21F74FADD1A5BF4408FA39EC1</key>
+		<key>515A4458CF6711EC09054143841020E63DA91893</key>
 		<string>../..</string>
+		<key>C7C8EB5D30E74DA21F74FADD1A5BF4408FA39EC1</key>
+		<string>../../../Checkers</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Calda/Checkers.git</string>
+	<string>https://github.com/Will16/iOSCheckersStart.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C7C8EB5D30E74DA21F74FADD1A5BF4408FA39EC1</string>
+	<string>515A4458CF6711EC09054143841020E63DA91893</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>C7C8EB5D30E74DA21F74FADD1A5BF4408FA39EC1</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Checkers</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>515A4458CF6711EC09054143841020E63DA91893</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Checkers-master</string>
 		</dict>
 	</array>
 </dict>
